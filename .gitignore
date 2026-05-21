@@ -1,0 +1,18 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Model weights
+yolov8n.pt
+weights/
+
+# Training runs (large files)
+runs/
+
+# Dataset (downloaded via Roboflow)
+my_project-1/
+my_project-2/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
