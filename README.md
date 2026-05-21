@@ -18,7 +18,7 @@ The standard YOLOv8n model (trained on COCO) has no concept of *who* a person is
 
 **Output after COCO inference (generic "person"):**
 
-![Sample Output](assets/sample_output.jpg)
+![Sample Output](assets/sample_output.png)
 
 ---
 
